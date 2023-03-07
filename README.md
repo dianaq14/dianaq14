@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Diana Cuta
-- 👀  I’m a economist lot of interested and passionate in learning programming, because i love the world tecnology, although I am just starting my learning process since ended 2021.
+- 👀  I’m a economist lot of interested and passionate in learning programming, because i love the world tecnology, although I am just starting my learning process since ended 2021. I consider myself a self-taught person, eager to learn and develop my skills 
 - 🌱 I’m currently learning:
 HTML5, CSS, C#, JAVA AND KOTLIN.
 - 💞️ I’m looking to collaborate on other people  with projects in some of the languages I have been studying and learn from them ...
