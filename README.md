@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @dianaq14
-- 👀 I’m interested in I am interested in learning programming, although I am just starting my learning process this year.
-- 🌱 I’m currently learning  HTML, CSS, C#, JAVA AND KOTLIN.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.linkedin.com/in/dianamarcelcutabarrera/ and 
-- email  dianacuta14@gmail.com...
+- 👋 Hi, I’m Diana Cuta
+- 👀 I’m a lot of interested in learning programming, because i love the world tecnology, although I am just starting my learning process since ended 2021.
+- 🌱 I’m currently learning:
+HTML5, CSS, C#, JAVA AND KOTLIN.
+- 💞️ I’m looking to collaborate on other people  with projects in some of the languages I have been studying and learn from them ...
+- 📫 How to reach me:
+LinkedIn: https://www.linkedin.com/in/dianamarcelcutabarrera/ or
+Email: dianacuta14@gmail.com
 
 <!---
 dianaq14/dianaq14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
