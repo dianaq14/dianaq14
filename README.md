@@ -4,7 +4,7 @@
 HTML5, CSS, C#, JAVA AND KOTLIN.
 - 💞️ I’m looking to collaborate on other people  with projects in some of the languages I have been studying and learn from them ...
 - 📫 How to reach me:
-LinkedIn: https://www.linkedin.com/in/dianamarcelcutabarrera/ or
+LinkedIn: https://www.linkedin.com/in/dianacuta/ or
 Email: dianacuta14@gmail.com
 
 
