@@ -1,15 +1,23 @@
-- 👋 Hi, I’m Diana Cuta
-- 👀  I’m a economist lot of interested and passionate in learning programming, because i love the world tecnology, although I am just starting my learning process since ended 2021. I consider myself a self-taught person, eager to learn and develop my skills 
-- 🌱 I’m currently learning:
-  PYTHON, SQL, JAVA AND KOTLIN.
-- 💞️ I’m looking to collaborate on other people  with projects in some of the languages I have been studying and learn from them ...
-- 📫 How to reach me:
-LinkedIn: https://www.linkedin.com/in/dianacuta/ or
-Email: dianacuta14@gmail.com
+# Hi, I'm Diana Cuta 👋
+### Economist & Data Analyst | Business Intelligence & Data Solutions
 
+Economist with a strong background in quantitative analysis, business modeling, and data manipulation. I leverage **SQL, Python, and Power BI** to transform complex datasets into actionable business insights and data-driven solutions.
 
+---
 
-<!---
-dianaq14/dianaq14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠️ Tech Stack & Tools
+- **Data Analysis & Scripting:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (PostgreSQL, MySQL).
+- **Business Intelligence & Viz:** Power BI, Excel (Advanced, Dashboards, Modeling).
+- **Methodologies:** Data Cleaning, Exploratory Data Analysis (EDA), Predictive Modeling, Business Metrics.
+
+---
+
+### 📌 Featured Projects
+- ⚽ **[Sports Analytics Engine](https://github.com/dianaq14/Sports_Analytics):** Predictive & analytical model to evaluate UEFA Champions League candidates using SQL, Python & Power BI.
+
+---
+
+### 📫 Connect with me:
+- **LinkedIn:** [linkedin.com/in/dianacuta](https://www.linkedin.com/in/dianacuta/)
+- **Email:** dianacuta14@gmail.com
+- **Portfolio:** [diana-cuta.vercel.app](https://diana-cuta.vercel.app/)
