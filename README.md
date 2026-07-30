@@ -20,4 +20,4 @@ Economist with a strong background in quantitative analysis, business modeling, 
 ### 📫 Connect with me:
 - **LinkedIn:** [linkedin.com/in/dianacuta](https://www.linkedin.com/in/dianacuta/)
 - **Email:** dianacuta14@gmail.com
-- **Portfolio:** [diana-cuta.vercel.app](https://diana-cuta.vercel.app/)
+-- **Portfolio:** [diana-cuta.vercel.app](https://diana-cuta.vercel.app)
